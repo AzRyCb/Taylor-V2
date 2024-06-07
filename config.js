@@ -41,10 +41,10 @@ async function loadConfig() {
     });
     /** Oᴡɴᴇʀ number  **/
     global.owner = [
-      ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", true]
+      ["6285211425532", "️𝑶𝒘𝒏𝒆𝒓", true]
     ];
-    global.mods = ["6282195322106"];
-    global.prems = ["6282195322106"];
+    global.mods = ["6285211425532"];
+    global.prems = ["6285211425532"];
     /** Website  **/
     global.APIs = {
       amel: "https://melcanz.com",
@@ -87,7 +87,7 @@ async function loadConfig() {
     global.nomorbot = "6281779570422";
     global.nomorown = "6282195322106";
     global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ";
-    global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」";
+    global.nameown = "「 AzRy 」";
     /** Random  **/
     global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥",
       "✗", "⚜", "⚚", "♪"
@@ -103,10 +103,10 @@ async function loadConfig() {
     global.flaaa = (ImgLogoFlam());
     global.brandc = (ImgLogoDynamic());
     /** Link  **/
-    global.sig = "https://www.instagram.com/wudysoft";
-    global.sgh = "https://www.github.com/AyGemuy";
+    global.sig = "https://www.instagram.com/z_ryyw";
+    global.sgh = "https://www.github.com/AzRyCb";
     global.sgc = "https://s.id/Taylor-V2";
-    global.sdc = "https://www.discord.com/wudysoft";
+    global.sdc = "https://www.discord.com/AzRyCb";
     global.snh = "https://www.tiktok.com/@upload_file";
     global.sfb = "https://www.facebook.com/";
     global.syt = "https://www.youtube.com/";
@@ -182,7 +182,7 @@ async function loadConfig() {
     ]);
     global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚";
     global.stickpack = packname;
-    global.author = "𝑻𝒂𝒚𝒍𝒐𝒓 乂 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕";
+    global.author = "AzBoTz";
     global.stickauth = author + "\nwa.me/" + nomorbot;
     global.multiplier = 69;
     /** Pesan  **/
@@ -190,20 +190,20 @@ async function loadConfig() {
     global.wait = pickRandom(["⏳", "⌛", "⏰", "⏱️"]);
     global.render = pickRandom(["_*`Rendering 📍`*_", "_*`Processing 📍`*_", "_*`Generating content 📍`*_"]);
     global.webs = "https://s.id/Cerdasin62";
-    global.gcwangsaf = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph";
+    global.gcwangsaf = "https://chat.whatsapp.com/FV3MU8D22P19dKEyA7EAfD";
     /** Donasi  **/
     global.saweria = "https://saweria.com/wudysoft";
-    global.dana = "0887435373103";
-    global.pulsa = "082195322106";
-    global.trakteer = "https://trakteer.id/wudysoft";
-    global.paypal = "wudysoft@mail.com";
-    global.gopay = "082195322106";
-    global.pdana = "0887435373103";
-    global.povo = "082195322106";
-    global.pgopay = "082195322106";
-    global.ppulsa = "082195322106";
-    global.ppulsa2 = "082195322106";
-    global.psaweria = "https://saweria.com/Wudysoft";
+    global.dana = "";
+    global.pulsa = "083879175089";
+    global.trakteer = "https://trakteer.id/AzRyCb";
+    global.paypal = "";
+    global.gopay = "0885211425532";
+    global.pdana = "";
+    global.povo = "";
+    global.pgopay = "0885211425532";
+    global.ppulsa = "083879175089";
+    global.ppulsa2 = "0885211425532";
+    global.psaweria = "https://saweria.com/AzRyCb";
     /** Emoji  **/
     global.rpg = {
       emoticon(string) {
